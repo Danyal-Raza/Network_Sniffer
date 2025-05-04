@@ -11,7 +11,7 @@ The application uses the Scapy library for low-level packet inspection and Tkint
 ## 🚀 Features
 
 - 📡 **Live Packet Capture**  
-  Monitor traffic in real-time using Scapy.
+  Monitor traffic in real-time using `Scapy`.
 
 - 🖥️ **Graphical User Interface (GUI)**  
   Built with `tkinter`, featuring a scrollable table of captured packets.
@@ -68,8 +68,7 @@ The application uses the Scapy library for low-level packet inspection and Tkint
 
 ## 👤 Author
 
-Developed by Syed Danyal Raza
-Assignment submitted to CodeAlpha
+Developed by `Syed Danyal Raza` and assignment submitted to `CodeAlpha`
 
 ## 📃 License
 This project is licensed under the MIT License.
