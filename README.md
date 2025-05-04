@@ -63,8 +63,8 @@ The application uses the Scapy library for low-level packet inspection and Tkint
 
 ## 📚 Screenshots
 
-![Packet Sniffer GUI Blank]("Images/Screenshot 2025-05-04 144421.png")
-![Packet Sniffer GUI Blank]("Images/Screenshot 2025-05-04 144506.png")
+![Packet Sniffer GUI Blank](Images/Image1.png)
+![Packet Sniffer GUI Blank](Images/Image2.png)
 
 ## 👤 Author
 
